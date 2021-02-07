@@ -7,7 +7,7 @@
   "apps": [{
     "id": "jrtt",
     "name": "今日头条极速版",
-    "keys": ["signurl", "signkey", "farmurl", "farmkey", "readurl", "readkey", "signurl2", "signkey2", "farmurl2", "farmkey2", "readurl2", "readkey2"],
+    "keys": ["signurl", "signkey", "farmurl", "farmkey", "readurl", "readkey", "signurl2", "signkey2", "farmurl2", "farmkey2", "readurl2", "readkey2""signurl3", "signkey3", "farmurl3", "farmkey3", "readurl3", "readkey3""signurl4", "signkey4", "farmurl4", "farmkey4", "readurl4", "readkey4""signurl5", "signkey5", "farmurl5", "farmkey5", "readurl5", "readkey5""signurl6", "signkey6", "farmurl6", "farmkey6", "readurl6", "readkey6""signurl6", "signkey7", "farmurl7", "farmkey7", "readurl7", "readkey7", "signkey8", "farmurl8", "farmkey8", "readurl8", "readkey8"],
     "author": "@ZhiYi-N",
     "settings": [{
             "id": "tz",
@@ -37,7 +37,7 @@
   {
     "id": "kkd",
     "name": "快看点",
-    "keys": ["kkdheader", "kkdcookie", "kkdheader2", "kkdcookie2"],
+    "keys": ["kkdheader", "kkdcookie", "kkdheader2", "kkdcookie2","kkdheader3", "kkdcookie3", "kkdheader4", "kkdcookie4""kkdheader5", "kkdcookie5", "kkdheader6", "kkdcookie6","kkdheader7", "kkdcookie7", "kkdheader8", "kkdcookie8"],
     "author": "@ZhiYi-N",
     "settings": [{
             "id": "tz",
@@ -67,7 +67,7 @@
   {
     "id": "dyjsb",
     "name": "抖音极速版",
-    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2"],
+    "keys": ["signheader", "signcookie", "stepheader", "stepkey", "readheader", "readkey", "signheader2", "signcookie2", "stepheader2", "stepkey2", "readheader2", "readkey2","signheader3", "signcookie3", "stepheader3", "stepkey3", "readheader3", "readkey3", "signheader4", "signcookie4", "stepheader4", "stepkey4", "readheader4", "readkey4","signheader5", "signcookie5", "stepheader5", "stepkey5", "readheader5", "readkey5", "signheader6", "signcookie6", "stepheader6", "stepkey6", "readheader6", "readkey6","signheader7", "signcookie7", "stepheader7", "stepkey7", "readheader7", "readkey7", "signheader8", "signcookie8", "stepheader8", "stepkey8", "readheader8", "readkey8"],
     "author": "@ZhiYi-N",
     "settings": [{
             "id": "tz",
@@ -155,7 +155,7 @@
    {
     "id": "zcy",
     "name": "走财运",
-    "keys": ["zcyheader", "zcybody", "zcyheader2", "zcybody2"],
+    "keys": ["zcyheader", "zcybody", "zcyheader2", "zcybody2", "zcyheader3", "zcybody3", "zcyheader4", "zcybody4", "zcyheader5", "zcybody5", "zcyheader6", "zcybody6", "zcyheader7", "zcybody7", "zcyheader8", "zcybody8"],
     "author": "@ZhiYi-N",
     "settings": [{
             "id": "tz",
