@@ -3,7 +3,7 @@
   "name": "hanxiansne-cmd 签到应用订阅",
   "author": "@hanxiansen-cmd",
   "icon": "https://raw.githubusercontent.com/Zed-lemm/qx/master/lovely/linainai.jpg",
-  "repo": "https://github.com/hanxiansen-cmd/script",
+  "repo": "https://github.com/hanxiansen-cmd",
   "apps": [{
     "id": "ymz",
     "name": "羊毛赚",
