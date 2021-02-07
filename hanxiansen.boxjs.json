@@ -7,7 +7,7 @@
   "apps": [{
     "id": "ymz",
     "name": "羊毛赚",
-    "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzurl1", "ymzhd1", "ymzbody1"],
+    "keys": ["ymzurl", "ymzhd", "ymzbody", "ymzurl1", "ymzhd1", "ymzbody1","ymzurl2", "ymzhd2", "ymzbody2", "ymzurl3", "ymzhd3", "ymzbody3","ymzurl4", "ymzhd4", "ymzbody4", "ymzurl5", "ymzhd5", "ymzbody5","ymzurl6", "ymzhd6", "ymzbody6", "ymzurl7", "ymzhd7", "ymzbody7"],
     "author": "@linainai",
     "settings": [{
             "id": "ymz",
@@ -37,7 +37,7 @@
            {
     "id": "zmsp",
     "name": "快看点",
-    "keys": ["zmurl", "zmhd", "zmbody"],
+    "keys": ["zmurl", "zmhd", "zmbody","zmurl2", "zmhd2", "zmbody2","zmurl3", "zmhd3", "zmbody3","zmurl4", "zmhd4", "zmbody4","zmurl5", "zmhd5", "zmbody5","zmurl6", "zmhd6", "zmbody6","zmurl7", "zmhd7", "zmbody7","zmurl8", "zmhd8", "zmbody8"],
     "author": "@linainai",
     "settings": [{
             "id": "zmsp",
@@ -67,7 +67,7 @@
            {
     "id": "bbb",
     "name": "步步宝",
-    "keys": ["bbb_ck"],
+    "keys": ["bbb_ck","bbb_ck2","bbb_ck3","bbb_ck4","bbb_ck5","bbb_ck6","bbb_ck7","bbb_ck8",]
     "author": "@linainai",
     "settings": [{
             "id": "bbb",
@@ -215,7 +215,7 @@
    {
     "id": "zcy",
     "name": "走财运",
-    "keys": ["zcyheader", "zcybody", "zcyheader2", "zcybody2"],
+    "keys": ["zcyheader", "zcybody", "zcyheader2", "zcybody2","zcyheader3", "zcybody3", "zcyheader4", "zcybody4","zcyheader5", "zcybody5", "zcyheader6", "zcybody6","zcyheader7", "zcybody7", "zcyheader8", "zcybody8"],
     "author": "@linainai",
     "settings": [{
             "id": "tz",
