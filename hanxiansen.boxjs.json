@@ -1,9 +1,9 @@
 {
-  "id": "linainai.app.sub",
-  "name": "linainai BJ 签到应用订阅",
-  "author": "@linainai",
+  "id": "hanxiansen.app.sub",
+  "name": "hanxiansne 签到应用订阅",
+  "author": "@hanxiansen",
   "icon": "https://raw.githubusercontent.com/Zed-lemm/qx/master/lovely/linainai.jpg",
-  "repo": "https://github.com/Zed-lemm",
+  "repo": "https://github.com/hanxiansen-cmd",
   "apps": [{
     "id": "ymz",
     "name": "羊毛赚",
